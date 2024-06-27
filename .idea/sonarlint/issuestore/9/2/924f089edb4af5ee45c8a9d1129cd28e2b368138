@@ -1,0 +1,13 @@
+
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ëëèıÿÿÿÿ8æµâã„2J$96599241-1304-4f93-b4a0-fa4c4c74c171
+q
+java:S1481+".Remove this unused "maxCaixas" local variable.(ƒŸ¶ï8ú±ãã„2J$6d3ac752-b658-4426-bb9b-5f2fc3580d42
+u
+java:S1481,"-Remove this unused "atualMax" local variable.(¤¡ğÌúÿÿÿÿ8ú±ãã„2J$603250b0-2175-44dc-8984-25eeec2dfdfa
+p	java:S108-")Either remove or fill this block of code.(¯¦ııÿÿÿÿ8¶âã„2J$9a5b1890-3ddb-428d-b265-6afd66bf1128
+r	java:S1061"+Replace this use of System.out by a logger.(Å§©ùÿÿÿÿ8¢¶âã„2J$482eb20a-febb-4747-a897-395954d09af4
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¤¶âã„2J$2cb4bc10-31c6-4122-916f-bcb2235209af
+s
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8§¶âã„2J$55fb371f-92e1-4d88-a44f-4993352c4dee

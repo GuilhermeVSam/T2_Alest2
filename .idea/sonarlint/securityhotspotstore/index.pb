@@ -1,0 +1,7 @@
+
+=
+src/Main.java,9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138
+A
+src/caixas_10.txt,1/c/1c60da5e2052869b89047deb6838ec531c45736b
+=
+caixas_10.txt,3/f/3fa4c60368799257010fb6b0f5546e01b55312c5
